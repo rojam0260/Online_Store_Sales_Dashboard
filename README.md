@@ -68,9 +68,9 @@ This dashboard was created as part of a **data analytics portfolio** to demonstr
 
 ## 📫 Contact
 
-If you’d like to connect or collaborate:
 
-**Your Name**  
+
+Roja M
 📧 rojam0260@gmail.com  
 🔗 www.linkedin.com/in/rojam
 
